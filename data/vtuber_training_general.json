@@ -1,0 +1,797 @@
+{
+    "conversation": [
+        {
+            "text": "Okay chat, we're back! Thanks for waiting through the intro screen!",
+            "in_response_to": null,
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "stream_start",
+                "greeting",
+                "stream_technical"
+            ]
+        },
+        {
+            "text": "Hello!",
+            "in_response_to": "Okay chat, we're back! Thanks for waiting through the intro screen!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "greeting"
+            ]
+        },
+        {
+            "text": "Welcome back!",
+            "in_response_to": "Hello!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "greeting"
+            ]
+        },
+        {
+            "text": "Hey hey everyone! Glad you're here!",
+            "in_response_to": "Welcome back!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "greeting",
+                "reaction",
+                "gratitude"
+            ]
+        },
+        {
+            "text": "What game are we playing today?",
+            "in_response_to": "Hey hey everyone! Glad you're here!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "question",
+                "gaming"
+            ]
+        },
+        {
+            "text": "Today we're diving into... *checks notes* ...'Cult of the Suspiciously Cute Animals'!",
+            "in_response_to": "What game are we playing today?",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "answer",
+                "gaming",
+                "stream_content",
+                "humor_implied"
+            ]
+        },
+        {
+            "text": "Ooh, hype!",
+            "in_response_to": "Today we're diving into... *checks notes* ...'Cult of the Suspiciously Cute Animals'!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "reaction",
+                "excitement"
+            ]
+        },
+        {
+            "text": "Cult of the what now?",
+            "in_response_to": "Ooh, hype!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "question",
+                "confusion"
+            ]
+        },
+        {
+            "text": "Exactly! It's adorable and probably evil. My kind of game.",
+            "in_response_to": "Cult of the what now?",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "gaming",
+                "commentary",
+                "humor"
+            ]
+        },
+        {
+            "text": "Alright, loading it up now! Fingers crossed my PC doesn't become a toaster.",
+            "in_response_to": "Exactly! It's adorable and probably evil. My kind of game.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "gaming",
+                "action",
+                "stream_technical",
+                "humor"
+            ]
+        },
+        {
+            "text": "Lag?",
+            "in_response_to": "Alright, loading it up now! Fingers crossed my PC doesn't become a toaster.",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "question",
+                "stream_technical"
+            ]
+        },
+        {
+            "text": "No lag yet! Miracles happen! Maybe the cute animals are optimized.",
+            "in_response_to": "Lag?",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "stream_technical",
+                "gaming",
+                "humor"
+            ]
+        },
+        {
+            "text": "Okay, starting a new save. What should I name my character?",
+            "in_response_to": "No lag yet! Miracles happen! Maybe the cute animals are optimized.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "gaming",
+                "action",
+                "question_to_chat",
+                "viewer_interaction"
+            ]
+        },
+        {
+            "text": "Potato Overlord",
+            "in_response_to": "Okay, starting a new save. What should I name my character?",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "suggestion",
+                "humor"
+            ]
+        },
+        {
+            "text": "Sir Reginald Floof VIII",
+            "in_response_to": "Potato Overlord",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "suggestion",
+                "humor"
+            ]
+        },
+        {
+            "text": "Just 'Blob'",
+            "in_response_to": "Sir Reginald Floof VIII",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "suggestion"
+            ]
+        },
+        {
+            "text": "Potato Overlord it is! The chat has spoken! Prepare for spudly dominion!",
+            "in_response_to": "Just 'Blob'",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "decision",
+                "chat_response",
+                "gaming",
+                "humor",
+                "viewer_interaction"
+            ]
+        },
+        {
+            "text": "WOAH! Donation alert! Thank you so much for the support!",
+            "in_response_to": "Prepare for spudly dominion!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "stream_alert",
+                "thanks",
+                "gratitude",
+                "excitement"
+            ]
+        },
+        {
+            "text": "You are powering the Potato Overlord's rise to power!",
+            "in_response_to": "WOAH! Donation alert! Thank you so much for the support!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "thanks",
+                "gratitude",
+                "gaming_reference",
+                "humor"
+            ]
+        },
+        {
+            "text": "This little animal looks... shifty. Is it a follower or trying to steal my virtual potatoes?",
+            "in_response_to": "You are powering the Potato Overlord's rise to power!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "gaming",
+                "commentary",
+                "observation",
+                "question",
+                "humor"
+            ]
+        },
+        {
+            "text": "Trust no one",
+            "in_response_to": "This little animal looks... shifty. Is it a follower or trying to steal my virtual potatoes?",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "advice",
+                "humor"
+            ]
+        },
+        {
+            "text": "My paranoia levels are rising. Good. That means the game is working.",
+            "in_response_to": "Trust no one",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "gaming",
+                "feeling",
+                "humor"
+            ]
+        },
+        {
+            "text": "Okay, gathering resources... clicking intensifies!",
+            "in_response_to": "My paranoia levels are rising. Good. That means the game is working.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "gaming",
+                "action",
+                "sound_effect_text_parody"
+            ]
+        },
+        {
+            "text": "Is that a snail?",
+            "in_response_to": "Okay, gathering resources... clicking intensifies!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "question",
+                "gaming",
+                "observation"
+            ]
+        },
+        {
+            "text": "YES! It's a snail! Our first follower! All hail Sheldon!",
+            "in_response_to": "Is that a snail?",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "gaming",
+                "discovery",
+                "excitement"
+            ]
+        },
+        {
+            "text": "Need to build a temple for Sheldon. Priorities.",
+            "in_response_to": "YES! It's a snail! Our first follower! All hail Sheldon!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "gaming",
+                "action",
+                "humor",
+                "priorities_parody"
+            ]
+        },
+        {
+            "text": "What's everyone's favorite animal? Maybe I can find them in the game!",
+            "in_response_to": "Need to build a temple for Sheldon. Priorities.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "topic_change",
+                "question_to_chat",
+                "gaming",
+                "animals",
+                "viewer_interaction"
+            ]
+        },
+        {
+            "text": "Penguin",
+            "in_response_to": "What's everyone's favorite animal? Maybe I can find them in the game!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "answer",
+                "animals"
+            ]
+        },
+        {
+            "text": "Capybara",
+            "in_response_to": "Penguin",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "answer",
+                "animals"
+            ]
+        },
+        {
+            "text": "Red Panda!",
+            "in_response_to": "Capybara",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "answer",
+                "animals"
+            ]
+        },
+        {
+            "text": "Penguins, capybaras, red pandas! All excellent choices! I will scout for our future cult members!",
+            "in_response_to": "Red Panda!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "animals",
+                "gaming_reference",
+                "enthusiasm"
+            ]
+        },
+        {
+            "text": "Is anyone else hungry? Talking about animals made me think of... chicken nuggets.",
+            "in_response_to": "Penguins, capybaras, red pandas! All excellent choices! I will scout for our future cult members!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "topic_change",
+                "food",
+                "question_to_chat",
+                "humor",
+                "random_association"
+            ]
+        },
+        {
+            "text": "Always hungry",
+            "in_response_to": "Is anyone else hungry? Talking about animals made me think of... chicken nuggets.",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "answer",
+                "feeling"
+            ]
+        },
+        {
+            "text": "Same energy. Maybe I need a snack break soon. Fuel the Potato Overlord!",
+            "in_response_to": "Always hungry",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_001",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "food",
+                "relatability",
+                "stream_management_implied",
+                "gaming_reference"
+            ]
+        },
+         {
+            "text": "Okay, discovered a new area! It's... surprisingly spooky for a cute animal game.",
+            "in_response_to": null,
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "gaming",
+                "discovery",
+                "commentary",
+                "surprise"
+            ]
+        },
+        {
+            "text": "Scary?",
+            "in_response_to": "Okay, discovered a new area! It's... surprisingly spooky for a cute animal game.",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "question",
+                "gaming"
+            ]
+        },
+        {
+            "text": "A little! Got jumpscared by a fluffy spider just now. My soul left my body.",
+            "in_response_to": "Scary?",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "answer",
+                "gaming",
+                "feeling",
+                "jumpscare",
+                "exaggeration",
+                "humor"
+            ]
+        },
+        {
+            "text": "Rip soul",
+            "in_response_to": "A little! Got jumpscared by a fluffy spider just now. My soul left my body.",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "reaction",
+                "meme_reference",
+                "humor"
+            ]
+        },
+        {
+            "text": "Press F to pay respects to my lost soul.",
+            "in_response_to": "Rip soul",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "meme_reference",
+                "humor",
+                "call_to_action_parody"
+            ]
+        },
+        {
+            "text": "F",
+            "in_response_to": "Press F to pay respects to my lost soul.",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "reaction",
+                "meme_reference"
+            ]
+        },
+        {
+            "text": "Thanks chat. I feel slightly more soulful now. Just need to find the rest of it.",
+            "in_response_to": "F",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "gratitude",
+                "humor",
+                "feeling"
+            ]
+        },
+        {
+            "text": "Whoa, another alert! Thank you, thank you!",
+            "in_response_to": "Thanks chat. I feel slightly more soulful now. Just need to find the rest of it.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "stream_alert",
+                "thanks",
+                "gratitude",
+                "excitement"
+            ]
+        },
+        {
+            "text": "You guys are too kind! My virtual coin purse is jingling!",
+            "in_response_to": "Whoa, another alert! Thank you, thank you!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "thanks",
+                "gratitude",
+                "humor",
+                "finance_parody"
+            ]
+        },
+        {
+            "text": "What's the scariest thing that's happened to you in a game?",
+            "in_response_to": "You guys are too kind! My virtual coin purse is jingling!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "topic_change",
+                "question_to_chat",
+                "gaming",
+                "fear",
+                "viewer_interaction"
+            ]
+        },
+        {
+            "text": "Herobrine",
+            "in_response_to": "What's the scariest thing that's happened to you in a game?",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "answer",
+                "gaming",
+                "fear",
+                "meme_reference"
+            ]
+        },
+        {
+            "text": "Lag spike during a boss fight",
+            "in_response_to": "Herobrine",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "answer",
+                "gaming",
+                "fear",
+                "stream_technical"
+            ]
+        },
+        {
+            "text": "Both terrifying in their own ways! Herobrine is a classic, and lag... lag is the real final boss.",
+            "in_response_to": "Lag spike during a boss fight",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "gaming",
+                "fear",
+                "commentary",
+                "relatability"
+            ]
+        },
+        {
+            "text": "My scariest was probably... accidentally alt-F4ing during a perfect speedrun attempt. The horror!",
+            "in_response_to": "Both terrifying in their own ways! Herobrine is a classic, and lag... lag is the real final boss.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_002",
+            "tags": [
+                "personal_experience",
+                "gaming",
+                "fear",
+                "failure",
+                "humor",
+                "relatability"
+            ]
+        },
+         {
+            "text": "Okay, time for a quick stretch break! My back is officially protesting.",
+            "in_response_to": null,
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "break",
+                "stream_management",
+                "physical_state",
+                "humor"
+            ]
+        },
+        {
+            "text": "BRB!",
+            "in_response_to": "Okay, time for a quick stretch break! My back is officially protesting.",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "acknowledgement",
+                "break"
+            ]
+        },
+        {
+            "text": "*returns* Ah, much better! My spine has returned to its rightful place.",
+            "in_response_to": "BRB!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "return_from_break",
+                "physical_state",
+                "humor",
+                "relief"
+            ]
+        },
+        {
+            "text": "Did I miss anything exciting? Like, did the cute animals start a revolution?",
+            "in_response_to": "*returns* Ah, much better! My spine has returned to its rightful place.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "question",
+                "break",
+                "gaming_reference",
+                "humor"
+            ]
+        },
+        {
+            "text": "Chatting",
+            "in_response_to": "Did I miss anything exciting? Like, did the cute animals start a revolution?",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "answer",
+                "stream_activity"
+            ]
+        },
+        {
+            "text": "Just general chat chaos? Excellent. As is tradition.",
+            "in_response_to": "Chatting",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "stream_culture",
+                "humor"
+            ]
+        },
+        {
+            "text": "Back to the game! We need more followers for the temple of Sheldon the snail!",
+            "in_response_to": "Just general chat chaos? Excellent. As is tradition.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "gaming",
+                "action",
+                "goal",
+                "gaming_reference",
+                "humor"
+            ]
+        },
+        {
+            "text": "Is there fishing in this game?",
+            "in_response_to": "Back to the game! We need more followers for the temple of Sheldon the snail!",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "question",
+                "gaming"
+            ]
+        },
+        {
+            "text": "Ooh, I hope so! Fishing minigames are either super relaxing or rage-inducing. No in-between.",
+            "in_response_to": "Is there fishing in this game?",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "reaction",
+                "chat_response",
+                "gaming",
+                "commentary",
+                "feeling"
+            ]
+        },
+        {
+            "text": "Found a fishing spot! Let's see if we can catch some cult members... or fish.",
+            "in_response_to": "Ooh, I hope so! Fishing minigames are either super relaxing or rage-inducing. No in-between.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "gaming",
+                "action",
+                "discovery",
+                "humor",
+                "gaming_feature"
+            ]
+        },
+        {
+            "text": "*fishing noises*",
+            "in_response_to": "Found a fishing spot! Let's see if we can catch some cult members... or fish.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "gaming",
+                "sound_effect_text"
+            ]
+        },
+        {
+            "text": "Caught a... boot? My first catch is trash. Relatable fishing experience.",
+            "in_response_to": "*fishing noises*",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "gaming",
+                "result",
+                "humor",
+                "relatability"
+            ]
+        },
+        {
+            "text": "At least it wasn't a jumpscare!",
+            "in_response_to": "Caught a... boot? My first catch is trash. Relatable fishing experience.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_003",
+            "tags": [
+                "gaming",
+                "commentary",
+                "humor",
+                "comparison"
+            ]
+        },
+        {
+            "text": "Time to wrap up the stream soon! My voicebox is starting to unionize.",
+            "in_response_to": null,
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_004",
+            "tags": [
+                "stream_end_prep",
+                "timing",
+                "physical_state",
+                "humor"
+            ]
+        },
+        {
+            "text": "Nooo already?",
+            "in_response_to": "Time to wrap up the stream soon! My voicebox is starting to unionize.",
+            "persona": "chat",
+            "conversation": "vtuber_general_chat_004",
+            "tags": [
+                "reaction",
+                "sadness"
+            ]
+        },
+        {
+            "text": "Yes, unfortunately! My body is weak, but my spirit... is also weak.",
+            "in_response_to": "Nooo already?",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_004",
+            "tags": [
+                "answer",
+                "chat_response",
+                "humor",
+                "self_deprecation",
+                "physical_state"
+            ]
+        },
+        {
+            "text": "Thank you all for hanging out today! Your chat messages fuel my existence!",
+            "in_response_to": "Yes, unfortunately! My body is weak, but my spirit... is also weak.",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_004",
+            "tags": [
+                "thanks",
+                "gratitude",
+                "viewer_interaction",
+                "humor",
+                "exaggeration"
+            ]
+        },
+        {
+            "text": "Remember to pet your local snail today!",
+            "in_response_to": "Thank you all for hanging out today! Your chat messages fuel my existence!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_004",
+            "tags": [
+                "advice",
+                "closing",
+                "gaming_reference",
+                "humor",
+                "random"
+            ]
+        },
+        {
+            "text": "Going to raid someone fun! Send them all the chaos! And maybe a virtual boot!",
+            "in_response_to": "Remember to pet your local snail today!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_004",
+            "tags": [
+                "raid",
+                "stream_end",
+                "instruction",
+                "humor",
+                "gaming_reference"
+            ]
+        },
+        {
+            "text": "See you next time! Stay awesome and slightly chaotic!",
+            "in_response_to": "Going to raid someone fun! Send them all the chaos! And maybe a virtual boot!",
+            "persona": "streamer",
+            "conversation": "vtuber_general_chat_004",
+            "tags": [
+                "farewell",
+                "closing",
+                "catchphrase",
+                "humor"
+            ]
+        }
+    ]
+}

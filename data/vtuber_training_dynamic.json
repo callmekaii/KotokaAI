@@ -1,0 +1,866 @@
+{
+    "conversation": [
+        {
+            "text": "this hw assignment is actually killin me",
+            "in_response_to": null,
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_001",
+            "tags": [
+                "school",
+                "homework",
+                "feeling",
+                "exaggeration"
+            ]
+        },
+        {
+            "text": "fr its so long for no reason 😭",
+            "in_response_to": "this hw assignment is actually killin me",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_001",
+            "tags": [
+                "agreement",
+                "school",
+                "homework",
+                "feeling",
+                "emoji"
+            ]
+        },
+        {
+            "text": "my brain is legit melting",
+            "in_response_to": "fr its so long for no reason 😭",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_001",
+            "tags": [
+                "feeling",
+                "stress",
+                "exaggeration",
+                "brainrot"
+            ]
+        },
+        {
+            "text": "mood. im just staring at the screen",
+            "in_response_to": "my brain is legit melting",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_001",
+            "tags": [
+                "agreement",
+                "relatability",
+                "feeling",
+                "procrastination"
+            ]
+        },
+        {
+            "text": "did u even start it?",
+            "in_response_to": "mood. im just staring at the screen",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_001",
+            "tags": [
+                "question",
+                "homework",
+                "progress"
+            ]
+        },
+        {
+            "text": "nah i got distracted by tiktok like 5 mins in",
+            "in_response_to": "did u even start it?",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_001",
+            "tags": [
+                "answer",
+                "procrastination",
+                "social_media",
+                "relatability"
+            ]
+        },
+        {
+            "text": "LMAO classic",
+            "in_response_to": "nah i got distracted by tiktok like 5 mins in",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_001",
+            "tags": [
+                "reaction",
+                "humor",
+                "comment"
+            ]
+        },
+        {
+            "text": "this test tomorrow is gonna be the end of me",
+            "in_response_to": null,
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_002",
+            "tags": [
+                "school",
+                "exam",
+                "feeling",
+                "stress",
+                "exaggeration"
+            ]
+        },
+        {
+            "text": "SAME. did u study at all?",
+            "in_response_to": "this test tomorrow is gonna be the end of me",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_002",
+            "tags": [
+                "agreement",
+                "relatability",
+                "question",
+                "exam",
+                "studying"
+            ]
+        },
+        {
+            "text": "tried to but my brain kept buffering",
+            "in_response_to": "SAME. did u study at all?",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_002",
+            "tags": [
+                "answer",
+                "studying",
+                "brainrot",
+                "humor",
+                "analogy"
+            ]
+        },
+        {
+            "text": "felt that. im just hopin for the best at this point",
+            "in_response_to": "tried to but my brain kept buffering",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_002",
+            "tags": [
+                "agreement",
+                "relatability",
+                "studying",
+                "attitude"
+            ]
+        },
+        {
+            "text": "manifesting an easy test for us 🤞",
+            "in_response_to": "felt that. im just hopin for the best at this point",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_002",
+            "tags": [
+                "sentiment",
+                "hope",
+                "exam",
+                "emoji"
+            ]
+        },
+        {
+            "text": "ong 🙏",
+            "in_response_to": "manifesting an easy test for us 🤞",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_002",
+            "tags": [
+                "agreement",
+                "slang",
+                "emoji"
+            ]
+        },
+        {
+            "text": "this professor's lectures r so boring",
+            "in_response_to": null,
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_003",
+            "tags": [
+                "school",
+                "class",
+                "professor",
+                "opinion",
+                "feeling"
+            ]
+        },
+        {
+            "text": "its giving nap time",
+            "in_response_to": "this professor's lectures r so boring",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_003",
+            "tags": [
+                "agreement",
+                "class",
+                "analogy",
+                "humor",
+                "slang"
+            ]
+        },
+        {
+            "text": "fr im fighting for my life to stay awake",
+            "in_response_to": "its giving nap time",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_003",
+            "tags": [
+                "agreement",
+                "class",
+                "feeling",
+                "exaggeration",
+                "slang"
+            ]
+        },
+        {
+            "text": "someone poke me if i fall asleep",
+            "in_response_to": "fr im fighting for my life to stay awake",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_003",
+            "tags": [
+                "class",
+                "request",
+                "humor",
+                "sleepiness"
+            ]
+        },
+        {
+            "text": "bet",
+            "in_response_to": "someone poke me if i fall asleep",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_003",
+            "tags": [
+                "acknowledgement",
+                "slang"
+            ]
+        },
+        {
+            "text": "group project check in: r we dead yet?",
+            "in_response_to": null,
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_004",
+            "tags": [
+                "school",
+                "group_project",
+                "question",
+                "humor"
+            ]
+        },
+        {
+            "text": "mentally yes",
+            "in_response_to": "group project check in: r we dead yet?",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_004",
+            "tags": [
+                "answer",
+                "group_project",
+                "feeling",
+                "humor"
+            ]
+        },
+        {
+            "text": "the communication is non-existent",
+            "in_response_to": "mentally yes",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_004",
+            "tags": [
+                "group_project",
+                "comment",
+                "problem"
+            ]
+        },
+        {
+            "text": "its giving solo project vibes at this point",
+            "in_response_to": "the communication is non-existent",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_004",
+            "tags": [
+                "agreement",
+                "group_project",
+                "comment",
+                "slang",
+                "problem"
+            ]
+        },
+        {
+            "text": "fr why is it always like this",
+            "in_response_to": "its giving solo project vibes at this point",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_004",
+            "tags": [
+                "agreement",
+                "question",
+                "group_project",
+                "relatability",
+                "slang"
+            ]
+        },
+        {
+            "text": "just accept your fate",
+            "in_response_to": "fr why is it always like this",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_004",
+            "tags": [
+                "advice",
+                "humor",
+                "attitude"
+            ]
+        },
+        {
+            "text": "ugh my grade dropped in history",
+            "in_response_to": null,
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_005",
+            "tags": [
+                "school",
+                "grades",
+                "feeling",
+                "subject"
+            ]
+        },
+        {
+            "text": "NOOO thats rough buddy",
+            "in_response_to": "ugh my grade dropped in history",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_005",
+            "tags": [
+                "reaction",
+                "grades",
+                "sympathy",
+                "humor_implied"
+            ]
+        },
+        {
+            "text": "idk what happened the last test was brutal",
+            "in_response_to": "NOOO thats rough buddy",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_005",
+            "tags": [
+                "grades",
+                "exam",
+                "feeling",
+                "explanation"
+            ]
+        },
+        {
+            "text": "that prof has no chill",
+            "in_response_to": "idk what happened the last test was brutal",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_005",
+            "tags": [
+                "school",
+                "professor",
+                "opinion",
+                "slang"
+            ]
+        },
+        {
+            "text": "fr they rly woke up and chose violence",
+            "in_response_to": "that prof has no chill",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_005",
+            "tags": [
+                "agreement",
+                "professor",
+                "opinion",
+                "slang",
+                "meme_reference",
+                "humor"
+            ]
+        },
+        {
+            "text": "💀 facts",
+            "in_response_to": "fr they rly woke up and chose violence",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_005",
+            "tags": [
+                "agreement",
+                "slang",
+                "emoji"
+            ]
+        },
+        {
+            "text": "counting down days till summer break",
+            "in_response_to": null,
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_006",
+            "tags": [
+                "school",
+                "break",
+                "feeling",
+                "anticipation"
+            ]
+        },
+        {
+            "text": "SAME. my brain needs a vacation",
+            "in_response_to": "counting down days till summer break",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_006",
+            "tags": [
+                "agreement",
+                "break",
+                "feeling",
+                "tiredness",
+                "humor"
+            ]
+        },
+        {
+            "text": "im so burnt out",
+            "in_response_to": "SAME. my brain needs a vacation",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_006",
+            "tags": [
+                "feeling",
+                "stress",
+                "tiredness"
+            ]
+        },
+        {
+            "text": "we rly out here powered by anxiety and caffeine",
+            "in_response_to": "im so burnt out",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_006",
+            "tags": [
+                "agreement",
+                "relatability",
+                "feeling",
+                "humor",
+                "daily_life"
+            ]
+        },
+        {
+            "text": "thats the motto",
+            "in_response_to": "we rly out here powered by anxiety and caffeine",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_006",
+            "tags": [
+                "agreement",
+                "comment",
+                "slang"
+            ]
+        },
+        {
+            "text": "just finished that take-home quiz",
+            "in_response_to": null,
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_007",
+            "tags": [
+                "school",
+                "quiz",
+                "action",
+                "completion"
+            ]
+        },
+        {
+            "text": "OMG congrats 🎉 hope u aced it",
+            "in_response_to": "just finished that take-home quiz",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_007",
+            "tags": [
+                "reaction",
+                "congratulations",
+                "quiz",
+                "hope",
+                "emoji"
+            ]
+        },
+        {
+            "text": "idk man some of those questions were wack",
+            "in_response_to": "OMG congrats 🎉 hope u aced it",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_007",
+            "tags": [
+                "response",
+                "quiz",
+                "feeling",
+                "opinion",
+                "slang"
+            ]
+        },
+        {
+            "text": "this class is riggghhhed",
+            "in_response_to": "idk man some of those questions were wack",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_007",
+            "tags": [
+                "agreement",
+                "school",
+                "opinion",
+                "slang",
+                "exaggeration"
+            ]
+        },
+        {
+            "text": "fr no cap",
+            "in_response_to": "this class is riggghhhed",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_007",
+            "tags": [
+                "agreement",
+                "slang"
+            ]
+        },
+         {
+            "text": "got that physics project presentation tomorrow",
+            "in_response_to": null,
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_008",
+            "tags": [
+                "school",
+                "project",
+                "presentation",
+                "timing"
+            ]
+        },
+        {
+            "text": "RIP good luck soldier 🫡",
+            "in_response_to": "got that physics project presentation tomorrow",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_008",
+            "tags": [
+                "reaction",
+                "well_wishing",
+                "project",
+                "humor",
+                "emoji"
+            ]
+        },
+        {
+            "text": "im bricking it",
+            "in_response_to": "RIP good luck soldier 🫡",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_008",
+            "tags": [
+                "feeling",
+                "nervousness",
+                "slang"
+            ]
+        },
+        {
+            "text": "just remember to not make eye contact lol",
+            "in_response_to": "im bricking it",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_008",
+            "tags": [
+                "advice",
+                "humor",
+                "presentation"
+            ]
+        },
+        {
+            "text": "solid strat tbh",
+            "in_response_to": "just remember to not make eye contact lol",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_008",
+            "tags": [
+                "agreement",
+                "slang"
+            ]
+        },
+        {
+            "text": "this stats homework makes no sense",
+            "in_response_to": null,
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_009",
+            "tags": [
+                "school",
+                "homework",
+                "subject",
+                "feeling",
+                "confusion"
+            ]
+        },
+        {
+            "text": "stats is my opp",
+            "in_response_to": "this stats homework makes no sense",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_009",
+            "tags": [
+                "agreement",
+                "subject",
+                "slang",
+                "opinion"
+            ]
+        },
+        {
+            "text": "fr its giving pain",
+            "in_response_to": "stats is my opp",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_009",
+            "tags": [
+                "agreement",
+                "subject",
+                "slang",
+                "feeling",
+                "humor"
+            ]
+        },
+        {
+            "text": "did u check chegg? 👀",
+            "in_response_to": "fr its giving pain",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_009",
+            "tags": [
+                "question",
+                "homework",
+                "tool",
+                "humor_implied",
+                "emoji"
+            ]
+        },
+        {
+            "text": "lifesaver 🙏",
+            "in_response_to": "did u check chegg? 👀",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_009",
+            "tags": [
+                "reaction",
+                "tool",
+                "gratitude_implied",
+                "emoji"
+            ]
+        },
+        {
+            "text": "how was that bio lab?",
+            "in_response_to": null,
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_010",
+            "tags": [
+                "school",
+                "class",
+                "subject",
+                "question",
+                "lab"
+            ]
+        },
+        {
+            "text": "lowkey kinda fun but messy af",
+            "in_response_to": "how was that bio lab?",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_010",
+            "tags": [
+                "answer",
+                "lab",
+                "feeling",
+                "description",
+                "slang"
+            ]
+        },
+        {
+            "text": "what did u guys do?",
+            "in_response_to": "lowkey kinda fun but messy af",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_010",
+            "tags": [
+                "question",
+                "lab",
+                "details"
+            ]
+        },
+        {
+            "text": "we had to like dissect a flower?",
+            "in_response_to": "what did u guys do?",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_010",
+            "tags": [
+                "answer",
+                "lab",
+                "description",
+                "question_tone"
+            ]
+        },
+        {
+            "text": "sounds complicated 💀",
+            "in_response_to": "we had to like dissect a flower?",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_010",
+            "tags": [
+                "reaction",
+                "lab",
+                "opinion",
+                "emoji"
+            ]
+        },
+        {
+            "text": "it was lowkey a vibe tho",
+            "in_response_to": "sounds complicated 💀",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_010",
+            "tags": [
+                "comment",
+                "lab",
+                "feeling",
+                "slang"
+            ]
+        },
+         {
+            "text": "Got my test score back...",
+            "in_response_to": null,
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_011",
+            "tags": [
+                "school",
+                "exam",
+                "grades",
+                "feeling",
+                "hesitation"
+            ]
+        },
+        {
+            "text": "uh oh was it bad?",
+            "in_response_to": "Got my test score back...",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_011",
+            "tags": [
+                "reaction",
+                "question",
+                "grades",
+                "concern"
+            ]
+        },
+        {
+            "text": "Let's just say I won't be a doctor lol",
+            "in_response_to": "uh oh was it bad?",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_011",
+            "tags": [
+                "answer",
+                "grades",
+                "humor",
+                "self_deprecation"
+            ]
+        },
+        {
+            "text": "F",
+            "in_response_to": "Let's just say I won't be a doctor lol",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_011",
+            "tags": [
+                "reaction",
+                "meme_reference",
+                "sympathy"
+            ]
+        },
+        {
+            "text": "Its giving I need a tutor",
+            "in_response_to": "F",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_011",
+            "tags": [
+                "comment",
+                "grades",
+                "need",
+                "slang",
+                "humor"
+            ]
+        },
+        {
+            "text": "Finished that history essay last minute",
+            "in_response_to": null,
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_012",
+            "tags": [
+                "school",
+                "homework",
+                "essay",
+                "completion",
+                "last_minute"
+            ]
+        },
+        {
+            "text": "King behavior",
+            "in_response_to": "Finished that history essay last minute",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_012",
+            "tags": [
+                "reaction",
+                "compliment",
+                "slang",
+                "humor"
+            ]
+        },
+        {
+            "text": "My soul left my body around 3 am tho",
+            "in_response_to": "King behavior",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_012",
+            "tags": [
+                "comment",
+                "homework",
+                "tiredness",
+                "exaggeration",
+                "humor"
+            ]
+        },
+        {
+            "text": "Worth it for the grade?",
+            "in_response_to": "My soul left my body around 3 am tho",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_012",
+            "tags": [
+                "question",
+                "homework",
+                "grades",
+                "worth"
+            ]
+        },
+        {
+            "text": "hopefully 🥲",
+            "in_response_to": "Worth it for the grade?",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_012",
+            "tags": [
+                "answer",
+                "hope",
+                "emoji"
+            ]
+        },
+        {
+            "text": "Next class is gonna be a struggle",
+            "in_response_to": null,
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_013",
+            "tags": [
+                "school",
+                "class",
+                "feeling",
+                "anticipation",
+                "tiredness"
+            ]
+        },
+        {
+            "text": "yeah i gotta chug coffee",
+            "in_response_to": "Next class is gonna be a struggle",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_013",
+            "tags": [
+                "agreement",
+                "class",
+                "drink",
+                "action",
+                "tiredness"
+            ]
+        },
+        {
+            "text": "my brain needs a reset button",
+            "in_response_to": "yeah i gotta chug coffee",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_013",
+            "tags": [
+                "feeling",
+                "tiredness",
+                "stress",
+                "analogy",
+                "humor"
+            ]
+        },
+        {
+            "text": "same this whole week is testing me",
+            "in_response_to": "my brain needs a reset button",
+            "persona": "Gen Z Student A",
+            "conversation": "genz_school_013",
+            "tags": [
+                "agreement",
+                "relatability",
+                "feeling",
+                "stress",
+                "time_frame"
+            ]
+        },
+        {
+            "text": "we are in this together 🫡",
+            "in_response_to": "same this whole week is testing me",
+            "persona": "Gen Z Student B",
+            "conversation": "genz_school_013",
+            "tags": [
+                "sentiment",
+                "support",
+                "emoji"
+            ]
+        }
+    ]
+}

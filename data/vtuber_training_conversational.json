@@ -1,0 +1,486 @@
+{
+    "conversation": [
+        {
+            "text": "yo did u see that new meme?",
+            "in_response_to": null,
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_001",
+            "tags": [
+                "greeting",
+                "question",
+                "meme"
+            ]
+        },
+        {
+            "text": "lmao which one",
+            "in_response_to": "yo did u see that new meme?",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_001",
+            "tags": [
+                "reaction",
+                "question"
+            ]
+        },
+        {
+            "text": "the one w the cat lookin surprised af",
+            "in_response_to": "lmao which one",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_001",
+            "tags": [
+                "answer",
+                "meme",
+                "description",
+                "slang"
+            ]
+        },
+        {
+            "text": "ONG I saw that 💀 ded",
+            "in_response_to": "the one w the cat lookin surprised af",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_001",
+            "tags": [
+                "reaction",
+                "meme",
+                "slang",
+                "emoji"
+            ]
+        },
+        {
+            "text": "my entire fyp is just that cat now",
+            "in_response_to": "ONG I saw that 💀 ded",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_001",
+            "tags": [
+                "comment",
+                "social_media",
+                "meme",
+                "exaggeration"
+            ]
+        },
+        {
+            "text": "sameee its so real tho",
+            "in_response_to": "my entire fyp is just that cat now",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_001",
+            "tags": [
+                "agreement",
+                "slang",
+                "relatability"
+            ]
+        },
+        {
+            "text": "lowkey stressed about that essay due tomorrow",
+            "in_response_to": null,
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "topic_change",
+                "school",
+                "feeling",
+                "slang"
+            ]
+        },
+        {
+            "text": "UGH don't remind me",
+            "in_response_to": "lowkey stressed about that essay due tomorrow",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "reaction",
+                "school",
+                "feeling"
+            ]
+        },
+        {
+            "text": "is it even worth it",
+            "in_response_to": "UGH don't remind me",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "question",
+                "school",
+                "rhetorical"
+            ]
+        },
+        {
+            "text": "nah def not but gotta get that bread",
+            "in_response_to": "is it even worth it",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "answer",
+                "school",
+                "slang",
+                "motivation"
+            ]
+        },
+        {
+            "text": "true dat. my brain is mush",
+            "in_response_to": "nah def not but gotta get that bread",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "agreement",
+                "slang",
+                "feeling",
+                "tiredness"
+            ]
+        },
+        {
+            "text": "same, the grind is real",
+            "in_response_to": "true dat. my brain is mush",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "relatability",
+                "slang"
+            ]
+        },
+        {
+            "text": "what r u doing tonight?",
+            "in_response_to": "same, the grind is real",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "question",
+                "plans",
+                "tonight"
+            ]
+        },
+        {
+            "text": "prolly just game or scroll endlessly. u?",
+            "in_response_to": "what r u doing tonight?",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "answer",
+                "plans",
+                "gaming",
+                "social_media",
+                "question_in_return"
+            ]
+        },
+        {
+            "text": "thinkin bout binge watching that new show everyone's talking about",
+            "in_response_to": "prolly just game or scroll endlessly. u?",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "answer",
+                "plans",
+                "streaming",
+                "pop_culture"
+            ]
+        },
+        {
+            "text": "oh that one looks good. let me know if its cap",
+            "in_response_to": "thinkin bout binge watching that new show everyone's talking about",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "comment",
+                "streaming",
+                "request",
+                "slang"
+            ]
+        },
+        {
+            "text": "will do! hmu later",
+            "in_response_to": "oh that one looks good. let me know if its cap",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "acknowledgement",
+                "farewell",
+                "slang"
+            ]
+        },
+        {
+            "text": "bet",
+            "in_response_to": "will do! hmu later",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_002",
+            "tags": [
+                "farewell",
+                "slang"
+            ]
+        },
+        {
+            "text": "im so over today already",
+            "in_response_to": null,
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_003",
+            "tags": [
+                "feeling",
+                "tiredness",
+                "daily_life",
+                "slang"
+            ]
+        },
+        {
+            "text": "fr mood",
+            "in_response_to": "im so over today already",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_003",
+            "tags": [
+                "agreement",
+                "slang",
+                "meme_reference"
+            ]
+        },
+        {
+            "text": "my motivation left the chat",
+            "in_response_to": "fr mood",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_003",
+            "tags": [
+                "feeling",
+                "humor",
+                "analogy",
+                "internet_culture"
+            ]
+        },
+        {
+            "text": "send location need backup",
+            "in_response_to": "my motivation left the chat",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_003",
+            "tags": [
+                "humor",
+                "meme_reference",
+                "plea_parody"
+            ]
+        },
+        {
+            "text": "stuck in tutorial mode 😔",
+            "in_response_to": "send location need backup",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_003",
+            "tags": [
+                "humor",
+                "gaming_analogy",
+                "feeling",
+                "emoji"
+            ]
+        },
+        {
+            "text": "real",
+            "in_response_to": "stuck in tutorial mode 😔",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_003",
+            "tags": [
+                "agreement",
+                "slang"
+            ]
+        },
+        {
+            "text": "heard about that drama online?",
+            "in_response_to": null,
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_004",
+            "tags": [
+                "topic_change",
+                "question",
+                "social_media",
+                "drama"
+            ]
+        },
+        {
+            "text": "omg YES. its wild",
+            "in_response_to": "heard about that drama online?",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_004",
+            "tags": [
+                "reaction",
+                "social_media",
+                "drama",
+                "excitement"
+            ]
+        },
+        {
+            "text": "idk how ppl get into that much drama",
+            "in_response_to": "omg YES. its wild",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_004",
+            "tags": [
+                "comment",
+                "social_media",
+                "drama",
+                "opinion"
+            ]
+        },
+        {
+            "text": "ikr? its kinda sus tbh",
+            "in_response_to": "idk how ppl get into that much drama",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_004",
+            "tags": [
+                "agreement",
+                "slang",
+                "opinion"
+            ]
+        },
+        {
+            "text": "defs fake for views",
+            "in_response_to": "ikr? its kinda sus tbh",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_004",
+            "tags": [
+                "opinion",
+                "social_media",
+                "judgment",
+                "slang"
+            ]
+        },
+        {
+            "text": "prolly. the algorithm demands sacrifice",
+            "in_response_to": "defs fake for views",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_004",
+            "tags": [
+                "agreement",
+                "social_media",
+                "humor",
+                "analogy"
+            ]
+        },
+        {
+            "text": "im boutta get starbucks u want anything?",
+            "in_response_to": null,
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_005",
+            "tags": [
+                "topic_change",
+                "offer",
+                "food",
+                "drink"
+            ]
+        },
+        {
+            "text": "OOOO yes pls. just a cold brew",
+            "in_response_to": "im boutta get starbucks u want anything?",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_005",
+            "tags": [
+                "reaction",
+                "request",
+                "food",
+                "drink",
+                "slang"
+            ]
+        },
+        {
+            "text": "say less on god",
+            "in_response_to": "OOOO yes pls. just a cold brew",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_005",
+            "tags": [
+                "acknowledgement",
+                "slang"
+            ]
+        },
+        {
+            "text": "ur a real one",
+            "in_response_to": "say less on god",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_005",
+            "tags": [
+                "compliment",
+                "slang"
+            ]
+        },
+        {
+            "text": "np! be there in 10",
+            "in_response_to": "ur a real one",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_005",
+            "tags": [
+                "response",
+                "timing",
+                "slang"
+            ]
+        },
+        {
+            "text": "bet 🫡",
+            "in_response_to": "np! be there in 10",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_005",
+            "tags": [
+                "acknowledgement",
+                "slang",
+                "emoji"
+            ]
+        },
+        {
+            "text": "this class is makin me wanna unalive",
+            "in_response_to": null,
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_006",
+            "tags": [
+                "school",
+                "feeling",
+                "exaggeration",
+                "slang"
+            ]
+        },
+        {
+            "text": "felt that deep in my soul",
+            "in_response_to": "this class is makin me wanna unalive",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_006",
+            "tags": [
+                "agreement",
+                "relatability",
+                "slang"
+            ]
+        },
+        {
+            "text": "the professor is so dry",
+            "in_response_to": "felt that deep in my soul",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_006",
+            "tags": [
+                "school",
+                "comment",
+                "opinion"
+            ]
+        },
+        {
+            "text": "its giving reading a textbook out loud",
+            "in_response_to": "the professor is so dry",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_006",
+            "tags": [
+                "agreement",
+                "school",
+                "comment",
+                "analogy",
+                "slang"
+            ]
+        },
+        {
+            "text": "exactly. im just counting down minutes",
+            "in_response_to": "its giving reading a textbook out loud",
+            "persona": "Gen Z User B",
+            "conversation": "genz_chat_006",
+            "tags": [
+                "agreement",
+                "school",
+                "feeling",
+                "comment"
+            ]
+        },
+         {
+            "text": "same, send help",
+            "in_response_to": "exactly. im just counting down minutes",
+            "persona": "Gen Z User A",
+            "conversation": "genz_chat_006",
+            "tags": [
+                "relatability",
+                "plea_parody",
+                "humor"
+            ]
+        }
+
+    ]
+}
